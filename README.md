@@ -1,3 +1,3 @@
 # Testing Exercie
 
-## Solve the errors found inside the etsting project
+## Solve the errors found inside the Testing project
