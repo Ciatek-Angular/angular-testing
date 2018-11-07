@@ -61,6 +61,4 @@ describe('CounterComponent', () => {
     expect(person.getName).toHaveBeenCalled()
   })
 
-
-
 });
